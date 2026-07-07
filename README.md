@@ -6,6 +6,6 @@ Created while learning Git.
 
 Learning GitHub Fetch
 
-## Persian Support
+## Persian Support - Version B
 
 This feature is under development.
