@@ -5,3 +5,7 @@ A lightweight PHP library to generate clean URL slugs from Persian and English t
 Created while learning Git.
 
 Learning GitHub Fetch
+
+## Persian Support
+
+This feature is under development.
